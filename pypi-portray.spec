@@ -4,7 +4,7 @@
 #
 Name     : pypi-portray
 Version  : 1.7.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/c0/a2/490649f03504ecdfba362cff4f830b08f3687ad1479234a37adcb495789f/portray-1.7.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c0/a2/490649f03504ecdfba362cff4f830b08f3687ad1479234a37adcb495789f/portray-1.7.0.tar.gz
 Summary  : Your Project with Great Documentation
@@ -78,7 +78,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656387415
+export SOURCE_DATE_EPOCH=1656395222
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
